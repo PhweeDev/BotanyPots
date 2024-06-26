@@ -45,12 +45,6 @@
       "output": {
         "item": "promenade:blueberries"
       }
-    },
-    {
-      "chance": 0.05,
-      "output": {
-        "item": "promenade:blueberries"
-      }
     }
   ]
 }
